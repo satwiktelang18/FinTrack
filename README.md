@@ -11,7 +11,7 @@
 
 <br/>
 
-# Expense Tracker — Personal Finance Operating System 💵
+# FinTrack - Modern Personal Finance Management Platform 💵
 
 **A full-stack expense and income tracking platform with JWT-secured APIs, real-time analytics, and a glassmorphic dark UI.**
 
