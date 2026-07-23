@@ -36,6 +36,12 @@ Expense Tracker is a full-stack **personal finance management system** built to 
 - **Glassmorphic Dark UI** — custom date picker, gradient stat cards, and animated charts
 
 ---
+## Application Preview 📸
+
+Dashboard :
+<img width="1470" height="800" alt="Screenshot 2026-07-23 at 5 51 26 PM" src="https://github.com/user-attachments/assets/77077da9-3928-4b9e-8d86-512fc07bb99e" />
+
+---
 
 ## Architecture Overview 🧠
 
