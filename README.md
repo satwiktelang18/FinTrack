@@ -11,7 +11,7 @@
 
 <br/>
 
-# FinTrack - Smart Personal Finance Management Platform 💸 💵
+# FinTrack - Smart Personal Finance Management Platform 💸 
 
 **A full-stack expense and income tracking platform with JWT-secured APIs, real-time analytics, and a glassmorphic dark UI.**
 
