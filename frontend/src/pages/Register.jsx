@@ -18,8 +18,8 @@ export default function Register() {
       await register(name, email, password)
       navigate('/dashboard')
     } catch (err) {
-      setError('Registration failed. Email may already be in use.')
-    }
+  setError(err.response?.data?.error || err.message || 'Registration failed')
+}
   }
 
   return (

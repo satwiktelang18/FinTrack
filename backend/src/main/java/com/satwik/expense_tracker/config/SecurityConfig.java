@@ -69,9 +69,13 @@ public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Excepti
 }
 
     @Bean
-public org.springframework.web.cors.CorsConfigurationSource corsConfigurationSource() {
+    public org.springframework.web.cors.CorsConfigurationSource corsConfigurationSource() {
     org.springframework.web.cors.CorsConfiguration configuration = new org.springframework.web.cors.CorsConfiguration();
-    configuration.setAllowedOrigins(java.util.List.of("http://localhost:5173"));
+    configuration.setAllowedOrigins(java.util.List.of(
+    "http://localhost:5173",
+    "http://localhost:5174",
+    "https://YOUR-VERCEL-URL-WILL-GO-HERE.vercel.app"
+));
     configuration.setAllowedMethods(java.util.List.of("GET", "POST", "PUT", "DELETE", "OPTIONS"));
     configuration.setAllowedHeaders(java.util.List.of("*"));
     configuration.setAllowCredentials(true);
