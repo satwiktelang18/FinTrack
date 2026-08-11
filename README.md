@@ -204,7 +204,7 @@ Frontend runs on `http://localhost:5173`
 
 ---
 
-# Why This Project? 💡
+# Why This Project? ❓
 
 Most portfolio expense trackers stop at basic CRUD. This one goes further — a real authentication system, server-side aggregation logic (not client-side math), a dynamic search engine built on JPA Specifications, and a UI that actually communicates data clearly through interactive charts.
 
@@ -224,7 +224,6 @@ Every backend decision was made with a reason: DTOs to prevent data leakage, a s
 - [ ] Monthly budget tracking with progress bars
 - [ ] Categories management page
 - [ ] CSV export
-- [ ] Deploy on Render + Vercel
 
 ---
 
