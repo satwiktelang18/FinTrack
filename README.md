@@ -21,7 +21,7 @@
 
 ## Overview 🔭
 
-Expense Tracker is a full-stack **personal finance management system** built to go beyond a simple CRUD app. It combines a Spring Boot REST API — secured end-to-end with JWT authentication — with a React dashboard that visualizes spending patterns in real time. Every number on screen, from category breakdowns to monthly trends, is computed live from actual transaction data, not mocked.
+**FinTrack** is a full-stack **personal finance management system** built to go beyond a simple CRUD app. It combines a Spring Boot REST API — secured end-to-end with JWT authentication — with a React dashboard that visualizes spending patterns in real time. Every number on screen, from category breakdowns to monthly trends, is computed live from actual transaction data, not mocked.
 
 ---
 
